@@ -1,0 +1,50 @@
+.box{
+    height: 500px;
+    width: 500px;
+    color: white;
+    text-align: center;
+    margin: 10px;
+    padding-inline-end: 10px 0;
+}
+.header{
+    background-color: #EA4335;
+    height: 10%;
+    
+}
+.nav{
+    background-color: #FF5E00;
+    height: 10%;
+}
+.side{
+    background-color: #4285F4;
+    width: 30%;
+    height: 60%;
+    float:left;
+    
+}
+.section1{
+    background-color: #34A853;
+    height: 30%;
+    width: 70%;
+    float:left;
+    text-align: left;
+    line-height: 150px;
+}
+.section2{
+    background-color: #fbbc05;
+    height: 30%;
+    width: 70%;
+    float:left;
+    text-align: left;
+    line-height: 150px;
+   
+}
+.footer{
+    clear: both;
+    background-color: #8a8d92;
+    height: 20%;
+    line-height: 100px;
+
+
+
+}
